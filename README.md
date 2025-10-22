@@ -2,14 +2,14 @@
 
 A modern, responsive landing page for MyBike, a conceptual bike store built to showcase premium bicycles and accessories. The website highlights key product lines, encourages users to explore, and provides a sleek, performance-focused user experience.
 
-# Live Preview
+## Live Preview
 
 Experience the live website: [View Live Site](https://whslv.github.io/layout_landing-page/)
 
-# Design Reference
+## Design Reference
 [View Figma Design](https://www.figma.com/design/2KA70CUpwTQfZP1kQlxZmj/MyBIKE-New-Version?node-id=0-1&t=W0MNle93rFdfAkdy-1)
 
-# Technologies Used
+## Technologies Used
 **Semantic, accessible structure** <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br>
 
@@ -19,7 +19,7 @@ Experience the live website: [View Live Site](https://whslv.github.io/layout_lan
 **Interactive elements and animations** <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>
 
-# Features
+## Features
 
 - Optimized performance and loading speed — lightweight assets, minimal dependencies, and clean code structure
 - Mobile-first responsive design — adapts seamlessly across all screen sizes and orientations
@@ -30,7 +30,7 @@ Experience the live website: [View Live Site](https://whslv.github.io/layout_lan
 - SEO-friendly structure — well-structured headings and metadata for better search visibility
 - Scalable layout system — built with maintainable CSS architecture for future product pages or campaigns
 
-# Getting started
+## Getting started
 
 1.Clone the repository:
 
