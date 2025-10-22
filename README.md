@@ -52,3 +52,18 @@ npm start
 # or
 yarn start
 ```
+
+## 💼 Let’s Build Something Great Together
+
+If you enjoyed this project and are looking for someone who can bring clean code, a strong sense of UI/UX, and creative problem-solving to your next idea, then **let’s connect**.
+
+📩 Let’s talk:
+
+- Want to collaborate on a project?
+
+- Need help with your web app or game prototype?
+
+- Looking for a developer who cares about details and results?
+
+Reach out to me via GitHub
+ or email - let’s turn your idea into something real.
