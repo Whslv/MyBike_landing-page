@@ -53,7 +53,7 @@ npm start
 yarn start
 ```
 
-## 💼 Let’s Build Something Great Together
+## Let’s Build Something Great Together
 
 If you enjoyed this project and are looking for someone who can bring clean code, a strong sense of UI/UX, and creative problem-solving to your next idea, then **let’s connect**.
 
